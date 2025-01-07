@@ -1,0 +1,35 @@
+.calBtn{
+  color:#fff ;
+  border: 1px solid #7895A8;
+  border-radius: 5px;
+  margin: 5px;
+  width: 20%;
+  height: 40px;
+  font-weight: 700;
+  font-size: 24px;
+  border: none;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.specialBtn:hover{
+  background-color: #c19c35;
+}
+
+.specialBtn{
+  background-color:#F8C743 ;
+}
+.digitBtn{
+  background-color:#7895A8 ;
+}
+.digitBtn:hover{
+  background-color: #738b9b;
+}
+
+.acBtn:hover{
+  background-color: #f64043;
+}
+
+.acBtn{
+  background-color:#F3080A;
+}
